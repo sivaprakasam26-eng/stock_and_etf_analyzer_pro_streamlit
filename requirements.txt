@@ -1,0 +1,7 @@
+#Python script depends on packages:
+
+streamlit
+yfinance
+pandas
+numpy
+plotly
